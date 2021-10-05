@@ -1,4 +1,3 @@
-
 .about-me {
   font-size: 25px;
 }
@@ -12,6 +11,7 @@ a {
   display: flex;
   justify-content: center;
 }
+
 .contact-section {
   display: flex;
   height: 500px;
@@ -21,10 +21,11 @@ a {
 
 .contact-section .right-side {
   display: flex;
-  align-items:  center;
+  align-items: center;
   padding: 40px;
   background-color: #202020;
 }
+
 .contact-section .right-side li {
   color: white;
   font-size: 50px
@@ -63,12 +64,14 @@ a {
   align-items: center;
   justify-content: center;
 }
+
 .intro .left-side h1 {
   color: white;
 }
+
 .intro .left-side {
   display: flex;
-  align-items:  center;
+  align-items: center;
   padding: 20px 40px 20px 40px;
   background-color: #202020;
 }
@@ -88,6 +91,6 @@ li.nostyle {
   list-style-type: none;
 }
 
-p, li, ol{
+p, li, ol {
   font-family: 'Roboto', sans-serif;
 }
